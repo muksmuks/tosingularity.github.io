@@ -22,14 +22,23 @@ mark{
     </td>
   </tr>
   <tr>
-    <td height="70">
-      <map name="FPMap1">
-      <area href="data_mining.htm" shape="polygon" coords="10, 10, 30, 37, 11, 55, 103, 56, 125, 34, 103, 8, 13, 7">
-      <area href="data_exploration.htm" shape="polygon" coords="336, 11, 362, 32, 340, 54, 427, 51, 446, 32, 425, 11">
-      <area href="modeling.htm" shape="polygon" coords="445, 13, 468, 33, 447, 53, 532, 53, 553, 31, 536, 13, 448, 12">
-      <area href="problem_definition.htm" shape="polygon" coords="121, 12, 144, 33, 124, 54, 209, 54, 230, 34, 212, 12">
-      <area href="data_preparation.htm" shape="polygon" coords="228, 12, 251, 34, 232, 53, 320, 52, 338, 32, 319, 13">
-      <area href="model_evaluation.htm" shape="polygon" coords="553, 12, 576, 32, 555, 53, 641, 52, 662, 32, 641, 13">
-      <area href="model_deployment.htm" shape="polygon" coords="662, 11, 682, 34, 664, 54, 748, 55, 769, 32, 749, 13, 666, 10"></map><img border="0" src="images/DM_lifecycle_1.png" usemap="#FPMap1" width="778" height="68"></td>
+    <td height="488">
+      <p align="center"><map name="FPMap2">
+      <area href="explaining_the_past.htm" shape="rect" coords="29, 217, 102, 251">
+      <area href="data_exploration.htm" shape="rect" coords="126, 217, 197, 251">
+      <area href="univariate_analysis.htm" shape="rect" coords="222, 88, 292, 123">
+      <area href="categorical_variables.htm" shape="rect" coords="318, 29, 391, 65">
+      <area href="categorical_variables.htm" shape="polygon" coords="414, 9, 506, 8, 505, 47, 520, 46, 519, 84, 416, 82">
+      <area href="encoding.htm" shape="rect" coords="308, 80, 361, 100">
+      <area href="binning.htm" shape="rect" coords="351, 113, 400, 134">
+      <area href="numerical_variables.htm" shape="polygon" coords="414, 89, 581, 88, 580, 125, 607, 125, 607, 164, 518, 164, 519, 241, 416, 240">
+      <area href="numerical_variables.htm" shape="rect" coords="317, 147, 387, 181">
+      <area href="bivariate_analysis.htm" shape="rect" coords="223, 346, 294, 379">
+      <area href="categorical_categorical.htm" shape="rect" coords="317, 266, 389, 303">
+      <area href="numerical_numerical.htm" shape="rect" coords="413, 325, 485, 398">
+      <area href="numerical_numerical.htm" shape="rect" coords="318, 345, 390, 381">
+      <area href="categorical_numerical.htm" shape="rect" coords="319, 424, 388, 461">
+      <area href="categorical_numerical.htm" shape="polygon" coords="414, 405, 525, 404, 526, 439, 570, 440, 569, 476, 418, 475, 415, 475">
+      <area href="categorical_categorical.htm" shape="polygon" coords="411, 247, 489, 247, 489, 284, 526, 285, 527, 320, 415, 319, 416, 249"></map><img border="0" src="images/DM_map_explain_1.png" usemap="#FPMap2" width="613" height="486"></td>
   </tr>
 </table>
