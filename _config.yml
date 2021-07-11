@@ -12,6 +12,9 @@ collections:
   project:
     output: true
     permalink: /project/:path/
+  posts:
+    output: true
+    permalink: /posts/:title.html
 
 social:
     - icon: fa-linkedin
