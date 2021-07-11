@@ -7,11 +7,11 @@ layout: default
   <hr />
 
   <ol class="posts">
-  {% for post in paginator.posts %}
-    {% if post.path contains 'datascience' %}
-         <li>Got something!!!!</li>
+  {% for post in site.posts %}
+    {% if post.path contains 'core-samples' %}
+    <li>Got something</li>
     {% endif %}
-  {% endfor %}
+  {% endfor %}  
   </ol>
 
   <!-- Pagination links -->
